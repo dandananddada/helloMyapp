@@ -1,0 +1,16 @@
+[{
+	"name" :"《30天精通AngularJS》",
+	"description" :"让你30天精通AngularJS，你怕不怕",
+	"author" :"asb",
+	"number" : 3,
+	"price" : 16,
+	"canPurchase":true
+},
+{
+	"name" :"《30天精通AngularJS》",
+	"description" :"让你30天精通AngularJS，你怕不怕",
+	"author" :"asb",
+	"number" : 3,
+	"price" : 16,
+	"canPurchase":false
+}]

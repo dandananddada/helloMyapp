@@ -1,0 +1,13 @@
+.book-list {
+  color: #333;
+  background-color: #99cc33;
+  border-radius: 0px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 60px;
+  padding-right: auto;
+  margin-bottom: 20px; }
+  .book-list .btn-purchase {
+    margin-top: -14px;
+    background-color: #fff;
+    border-radius: 0px; }

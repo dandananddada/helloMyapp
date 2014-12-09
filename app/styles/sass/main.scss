@@ -1,0 +1,33 @@
+@import "book-list";
+@import "panel";
+$topBgColor : #99cc33;
+
+.top{
+	background-color: $topBgColor;
+	padding-bottom: 28px;
+	margin-bottom: 10px;
+	h5 {
+		color:#333;
+		font-size:24px;
+		text-align:center;
+	}
+	small{
+		float: right;
+		color: #333;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

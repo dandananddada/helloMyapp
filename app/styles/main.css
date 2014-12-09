@@ -1,0 +1,33 @@
+.book-list {
+  color: #333;
+  background-color: #99cc33;
+  border-radius: 0px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 60px;
+  padding-right: auto;
+  margin-bottom: 20px; }
+  .book-list .btn-purchase {
+    margin-top: -14px;
+    background-color: #fff;
+    border-radius: 0px; }
+
+.nav-pills li {
+  background-color: #99cc33 !important; }
+  .nav-pills li a {
+    color: #fff; }
+    .nav-pills li a:hover {
+      color: #99cc33;
+      background-color: #fff; }
+
+.top {
+  background-color: #99cc33;
+  padding-bottom: 28px;
+  margin-bottom: 10px; }
+  .top h5 {
+    color: #333;
+    font-size: 24px;
+    text-align: center; }
+  .top small {
+    float: right;
+    color: #333; }

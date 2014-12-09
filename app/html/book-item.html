@@ -1,0 +1,14 @@
+<div ng-controller="BookItemCtrl as bookItemCtrl">
+	<div ng-repeat="book in bookItemCtrl.books">
+		<div class="book-list">
+			<h5>书名：{{ book.name }}</h5>
+			<h5>描述：{{ book.description }}</h5>
+			<h5>作者：{{ book.author }}</h5>
+			<h5>库存：{{ book.number }}</h5>
+			<h5>售价：{{ book.price }}</h5>
+			<div ng-show="book.canPurchase">
+				<a href="" ng-click="bookItemCtrl.purchase(book.name)" class="btn btn-default btn-purchase pull-right" >购买</a>
+			</div>
+		</div>
+	</div>
+</div>

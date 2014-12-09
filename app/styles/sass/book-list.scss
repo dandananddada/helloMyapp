@@ -1,0 +1,34 @@
+$bookBgColor : #99cc33;
+$bookFontColor : #333;
+
+.book-list
+{
+	color: $bookFontColor;
+	background-color: $bookBgColor;
+	border: {
+		radius:0px;
+	}
+	padding:{
+		top:20px;
+		bottom:20px;
+		left:60px;
+		right:auto;
+	}
+	margin:{
+		bottom:20px;
+	}
+	.btn-purchase
+	{
+		margin: {
+			top:-14px;
+		}
+		background: 
+		{
+			color:#fff;
+		}
+		border:
+		{
+			radius:0px;
+		}
+	}
+}

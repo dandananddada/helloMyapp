@@ -1,0 +1,16 @@
+$pillBgColor : #99cc33;
+
+.nav-pills
+{
+	li{
+		background-color:$pillBgColor !important;
+		a{
+			color:#fff;
+		&:hover
+	        {
+            	color:$pillBgColor;
+				background-color: #fff;
+	        }
+		}
+	}
+}
